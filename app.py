@@ -22,7 +22,7 @@ def format_money(value):
 # =========================
 # TIÊU ĐỀ
 # =========================
-st.title("💰 TÍNH LÃI GỬI TIẾT KIỆM")
+st.title("💰 TÍNH LÃI GỬI TIẾT KIỆM_Nguyễn Hoàng Anh Duy")
 st.write(
     "Nhập thông tin khoản tiền gửi để tính tiền lãi và tổng số tiền nhận được."
 )
