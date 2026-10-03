@@ -6,7 +6,7 @@ import pandas as pd
 # CẤU HÌNH TRANG
 # =========================
 st.set_page_config(
-    page_title="Tính lãi tiền gửi tiết kiệm",
+    page_title="Tính lãi tiền gửi tiết kiệm_Nguyễn Hoàng Anh Duy",
     page_icon="💰",
     layout="centered"
 )
